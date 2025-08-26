@@ -5,7 +5,7 @@ Perfect 👍 Since you’re using **AngularJS** + **Bootstrap**, here’s a read
 
 ---
 
-# 🥐 Theo’s Patisserie Website
+# 🥐 Theos Patisserie Website
 
 A responsive website for **Theo’s Patisserie**, designed to showcase the bakery’s menu, seasonal specials, and brand story. The site provides customers with an engaging browsing experience, optimized for both desktop and mobile.
 
