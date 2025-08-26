@@ -89,8 +89,4 @@ All rights reserved © Theo’s Patisserie.
 
 ## 👤 Author
 
-Developed by [Your Name](your-portfolio-link)
-
----
-
-Do you want me to also make a **shorter, client-facing version** (without npm install, folder structure, etc.) so it looks more business-friendly if Theo’s team reads it?
+Developed by [Rishabh Parashar](your-portfolio-lin
